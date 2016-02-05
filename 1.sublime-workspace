@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"el",
+				"elForm"
+			],
+			[
+				"ra",
+				"radioR"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"clo",
+				"cloneEl"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"en",
+				"enter"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"o",
+				"onblur	Attr"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"num",
+				"numberImg"
+			],
+			[
+				"ge",
+				"getMinutes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"secondSymbol"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"c",
+				"charAt"
+			],
+			[
+				"val",
+				"valEl"
+			],
+			[
+				"m",
+				"move"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"new",
+				"newGroup"
+			],
+			[
+				"ko",
+				"kolColumn"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bi",
+				"border-image"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"class",
+				"class2"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"borderc",
+				"border-collapse"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ter",
+				"text-decoration"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pis",
+				"position"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"lt",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9391,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 7544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.less",
+			"settings":
+			{
+				"buffer_size": 2767,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"s",
+				"Set Syntax: CSS"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 97.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/0/beetroot-web",
+		"/D/0/beetroot-web/HW",
+		"/D/0/beetroot-web/HW/21_jQuery_shop",
+		"/D/0/beetroot-web/HW/21_jQuery_shop/css",
+		"/D/0/beetroot-web/HW/21_jQuery_shop/js"
+	],
+	"file_history":
+	[
+		"/D/0/beetroot-web/CW/10 lesson/style.css",
+		"/D/0/beetroot-web/CW/10 lesson/style.less",
+		"/D/0/beetroot-web/CW/10 lesson/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"\"></",
+			"<br>",
+			"font-size: 16px;",
+			"h1",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.447784810127,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
